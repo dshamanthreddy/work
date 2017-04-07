@@ -1,14 +1,11 @@
 #!/usr/bin/python
-#
-
-#
  
 import boto.ec2, sys
  
 # AWS_ACCESS_KEY_ID
-AKID='AKIAI6RZO4KDVYAQCEIA'
+AKID='*********VYAQCEIA'
 # AWS_SECRET_ACCESS_KEY
-ASAK='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'
+ASAK='*************BHskT5Gd46Lx05H'
 # Region string
 REGION='us-east-2'
  
