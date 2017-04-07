@@ -5,6 +5,6 @@ AWS ACCESS KEY ID
 AWS SECRET ACCESS KEY
 Region Code
 
-Use following Cmd
+Use following cmd
 ./ec2-startstop.py start Instance name
 
